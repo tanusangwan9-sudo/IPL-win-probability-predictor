@@ -10,7 +10,7 @@ if not hasattr(sklearn.compose._column_transformer, "_RemainderColsList"):
         pass
     sklearn.compose._column_transformer._RemainderColsList = _RemainderColsList
 
-    pipe = joblib.load(r"C:\Users\niki\PycharmProjects\JupyterProject\pipe.pkl")
+    pipe = joblib.load("pipe.pkl")
 else:
     st.error("pipe.pkl file not found")
 # Page Config
