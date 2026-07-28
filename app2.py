@@ -56,7 +56,7 @@ teams = ['Royal Challengers Bangalore',
  'Rajasthan Royals',
  'Chennai Super Kings',
  'Sunrisers Hyderabad',
- 'Delhi Capitals',
+ 'Delhi Daredevils',
  'Royal Challengers Bengaluru']
 
 cities = ['Bangalore', 'Chandigarh', 'Delhi', 'Mumbai', 'Kolkata', 'Jaipur',
